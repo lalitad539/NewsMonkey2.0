@@ -1,0 +1,1228 @@
+{
+"status": "ok",
+"totalResults": 365,
+"articles": [
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Emily Stewart",
+"title": "We should all know less about our bodies",
+"description": "Americans are spending $100 billion on wellness apps and health trackers — but the rise in self-data may end up just stressing people out.",
+"url": "https://www.businessinsider.com/wellness-tracking-apps-sleep-score-stress-hurting-health-2026-6",
+"urlToImage": "https://i.insider.com/6a2075562ab5f9757add8dda?width=1200&format=jpeg",
+"publishedAt": "2026-06-04T08:43:01Z",
+"content": "Katie Anne Hayes felt like her Garmin watch was giving her a lot of valuable information, at least at first. She took particular interest in the \"Body Battery\" feature, which purports to tell users h… [+14118 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Daringfireball.net"
+},
+"author": "John Gruber",
+"title": "If There’s One Thing Nick Bilton Knows, It’s Television",
+"description": "Link to: http://bits.blogs.nytimes.com/2011/10/27/whats-really-next-for-apple-in-television/",
+"url": "https://daringfireball.net/linked/2011/10/27/bilton-itv",
+"urlToImage": "https://daringfireball.net/graphics/df-square-1024",
+"publishedAt": "2026-06-04T02:23:25Z",
+"content": "And he says the interface will be Siri:\r\nAlternative remote ideas floated by Apple included a wireless\r\nkeyboard and mouse, or using an iPod, iPhone or iPad as a remote.\r\nNone of these concepts worke… [+590 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Marcus Mendes",
+"title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri",
+"description": "A new report from The Information shares fresh details on how the new Gemini-powered Siri will work under the hood. Here are the details.\n\n\n\n more…",
+"url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2026-06-04T00:25:24Z",
+"content": "A new report from The Information shares fresh details on how the new Gemini-powered Siri will work under the hood. Here are the details.\r\nA few days ago, The Information reported on some of the tech… [+2303 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Journal du geek"
+},
+"author": "Amandine Jonniaux",
+"title": "Après la condamnation de Spliiit, que risquez-vous à utiliser la plateforme ?",
+"description": "Le tribunal judiciaire de Paris a tranché le 29 mai contre la plateforme française de co-abonnement. Pour les abonnés, ça change quoi exactement ?",
+"url": "https://www.journaldugeek.com/2026/06/04/apres-la-condamnation-de-spliiit-que-risquez-vous-a-utiliser-la-plateforme/",
+"urlToImage": "https://www.journaldugeek.com/app/uploads/2026/06/spliiit-condamnation-1600x900.jpg",
+"publishedAt": "2026-06-04T07:23:38Z",
+"content": "785 000 . C’est la somme que Spliiit doit verser en provisions à Netflix, Disney et Apple, conformément au jugement rendu le 29 mai 2026 par le tribunal judiciaire de Paris, partagé par son PDG sur s… [+4293 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Álvaro García M.",
+"title": "Apple ha pasado de un 2% de mercado en India a tener casi cinco veces más en pocos años. Y eso es un problema",
+"description": "Apple ha pasado de ser un actor muy pequeño en India, con alrededor de un 1% de cuota de mercado en 2019, a expandirse y alcanzar un 9% en 2026. Sigue estando por detrás de otros fabricantes, pero la tendencia sigue siendo ascendente y esto también es algo qu…",
+"url": "https://www.applesfera.com/apple-1/apple-ha-pasado-2-mercado-india-a-tener-casi-cinco-veces-pocos-anos-eso-problema",
+"urlToImage": "https://i.blogs.es/59aa42/india-apple/840_560.png",
+"publishedAt": "2026-06-04T08:01:55Z",
+"content": "Apple ha pasado de ser un actor muy pequeño en India, con alrededor de un 1% de cuota de mercado en 2019, a expandirse y alcanzar un 9% en 2026. Sigue estando por detrás de otros fabricantes, pero la… [+3986 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Álvaro García M.",
+"title": "El nuevo CEO de Apple no quiere que Vision Pro distraiga su estrategia. Sus planes filtrados son claros: gafas y más gafas",
+"description": "Que pronto vamos a conocer las gafas de Apple es un secreto a voces. Que Apple no sabe exactamente qué hacer con Vision Pro empieza también a serlo. O quizás ya lo tengan claro si atendemos a las últimas filtraciones, en las cuales se sugiere que el nuevo CEO…",
+"url": "https://www.applesfera.com/rumores/nuevo-ceo-apple-no-quiere-que-vision-pro-distraiga-su-estrategia-sus-planes-filtrados-claros-gafas-gafas",
+"urlToImage": "https://i.blogs.es/cd60ca/john-ternus-gafas-de-apple/840_560.jpeg",
+"publishedAt": "2026-06-04T06:21:31Z",
+"content": "Que pronto vamos a conocer las gafas de Apple es un secreto a voces. Que Apple no sabe exactamente qué hacer con Vision Pro empieza también a serlo. O quizás ya lo tengan claro si atendemos a las últ… [+3020 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Search Engine Journal"
+},
+"author": "Helen Pollitt",
+"title": "How Can You Implement Entity Optimization Without Relying On Schema Markup? – Ask An SEO via @sejournal, @HelenPollitt1",
+"description": "Most SEOs stop at schema markup. Here's the full technical picture of entity optimization, and why it matters more than ever for LLM visibility.\nThe post How Can You Implement Entity Optimization Without Relying On Schema Markup? – Ask An SEO appeared first o…",
+"url": "https://www.searchenginejournal.com/ask-an-seo-what-does-entity-optimization-mean/575597/",
+"urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-helen-904.jpg",
+"publishedAt": "2026-06-04T08:30:30Z",
+"content": "For this week’s Ask An SEO, the question asked was:\r\n“From a technical standpoint, what does ‘entity optimization’ actually mean beyond adding schema?”\r\nTo answer this, first of all, let’s establish,… [+12598 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Espinof.com"
+},
+"author": "Albertini",
+"title": "Anya Taylor-Joy protagoniza la nueva miniserie del creador de 'Banshee'. El trepidante tráiler de 'Lucky' promete ser uno de los thrillers de acción del año",
+"description": "{\"videoId\":\"xad53cs\",\"autoplay\":true,\"title\":\"Lucky - Tráiler de la serie de Apple TV con Anya Taylor-Joy\",\"tag\":\"\",\"duration\":\"129\"}\n \r\n\n\r\n\n En lo que está a punto de terminar la temporada 2 de 'Vicios ocultos' (Your Friends & Neighbors), Apple TV no quiere …",
+"url": "https://www.espinof.com/trailers/anya-taylor-joy-protagoniza-nueva-miniserie-creador-banshee-trepidante-trailer-lucky-promete-ser-uno-thrillers-accion-ano",
+"urlToImage": "https://i.blogs.es/c0c501/x720/840_560.jpeg",
+"publishedAt": "2026-06-04T08:58:21Z",
+"content": "En lo que está a punto de terminar la temporada 2 de 'Vicios ocultos' (Your Friends &amp; Neighbors), Apple TV no quiere dar descanso a su creador (y de 'Banshee' y 'Warrior') Jonathan Trooper. Tanto… [+1109 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Les Numériques"
+},
+"author": "Arthur Letang",
+"title": "Test Sennheiser Momentum 5 Wireless : un casque conservateur qui réussit sa montée en gamme sonore",
+"description": "Après quatre ans d’attente, Sennheiser renouvelle enfin son casque Bluetooth best-seller. Conçu pour rivaliser avec les itérations modernes de Sony et Bose, le Momentum 5 Wireless peaufine une formule déjà éprouvée à travers une série d’améliorations ciblées.",
+"url": "https://www.lesnumeriques.com/casque-bluetooth/sennheiser-momentum-5-wireless-p78320/test.html",
+"urlToImage": "https://cdn.lesnumeriques.com/optim/test/25/256673/57ca3ffc-sennheiser-momentum-5-wireless__1200_678__0-185-3000-1760_wtmk.jpg",
+"publishedAt": "2026-06-04T05:00:00Z",
+"content": "Quelques mois seulement après son entrée sur le marché des casques nomades audiophiles avec le HDB 630, Sennheiser remet le couvert en renouvelant enfin sa gamme grand public phare.\r\nLe Momentum 5 a … [+16350 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xatakamovil.com"
+},
+"author": "Laura Sacristán",
+"title": "Nuevos iPhone 18 Pro y iPhone 18 Pro Max: todo lo que creemos saber sobre ellos",
+"description": "Si Apple cumple la hoja de ruta a la que nos tiene acostumbrados, después del verano conoceremos la siguiente generación de su teléfono móvil. Todo apunta, por tanto, a que los iPhone 18 Pro y iPhone 18 Pro Max serán los primeros iPhone presentados por John T…",
+"url": "https://www.xatakamovil.com/nuevo/nuevo-iphone-18-pro-iphone-18-pro-max-informacion",
+"urlToImage": "https://i.blogs.es/6230b8/iphone-17-pro-05/840_560.jpeg",
+"publishedAt": "2026-06-04T08:05:55Z",
+"content": "Si Apple cumple la hoja de ruta a la que nos tiene acostumbrados, después del verano conoceremos la siguiente generación de su teléfono móvil. Todo apunta, por tanto, a que los iPhone 18 Pro y iPhone… [+4753 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Internet"
+},
+"author": "info@thehackernews.com (The Hacker News)",
+"title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+"description": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.\n\nThe \"Disruption Week\" operati…",
+"url": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
+"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTf5wAHnoXtVauiln2MwlVvLc4LxcL8SBTLuW648LfFhUd8QyuOUfjmg0Hd91QlksmWF2u-PQhxHDTDmseMIG64V4Fo2I2lXXGO1o0BncbL_UTeBrGztErg66yXAm0trYlWxqGbE-sKb5VjXjqeyNiCMkxbdcxwX1BDRGexhP-b0s3dZl0lNRpY9u6nsTQ/s1700-e365/police-crypto.jpg",
+"publishedAt": "2026-06-04T06:06:25Z",
+"content": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurren… [+4032 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "Olli",
+"title": "Siri mit Gemini: Apple soll auf NVIDIA-Chips in der Google Cloud setzen",
+"description": "Die neue Siri-Version mit Gemini-Unterbau bekommt laut The Information weitere Konturen. Demnach sollen einige Siri-Anfragen künftig über Google Cloud laufen, genauer über eine lizenzierte Version von Googles Gemini-Modell. Apple soll dafür auf Googles NVIDIA…",
+"url": "https://stadt-bremerhaven.de/siri-mit-gemini-apple-soll-auf-nvidia-chips-in-der-google-cloud-setzen/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/07/siri-ios-18.jpg",
+"publishedAt": "2026-06-04T06:00:14Z",
+"content": "Die neue Siri-Version mit Gemini-Unterbau bekommt laut The Information weitere Konturen. Demnach sollen einige Siri-Anfragen künftig über Google Cloud laufen, genauer über eine lizenzierte Version vo… [+1310 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "caschy",
+"title": "Blackmagic Design: Das ist neu in DaVinci Resolve 21",
+"description": "Blackmagic Design hat DaVinci Resolve 21 veröffentlicht und die Liste der Neuerungen ist unfassbar lang. Wer die Software nutzt, weiß, dass das Team ordentlich abliefert. Dieses Mal gibt es nicht nur Optimierungen unter der Haube, sondern eine komplett neue P…",
+"url": "https://stadt-bremerhaven.de/blackmagic-design-das-ist-neu-in-davinci-resolve-21/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2026/06/hero-xl-2.jpg",
+"publishedAt": "2026-06-04T09:00:55Z",
+"content": "Blackmagic Design hat DaVinci Resolve 21 veröffentlicht und die Liste der Neuerungen ist unfassbar lang. Wer die Software nutzt, weiß, dass das Team ordentlich abliefert. Dieses Mal gibt es nicht nur… [+2534 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Corentin Béchade",
+"title": "Le succès du MacBook Neo montre que l’IA ne fait pas tout",
+"description": "Face à un succès commercial insolent, le MacBook Neo domine les ventes d’Apple et oblige l’entreprise à revoir ses prévisions de vente pour 2026. En creux, cette réussite s’inscrit aussi à rebours des grandes tendances de l’industrie.",
+"url": "https://www.frandroid.com/marques/apple/3125659_le-succes-du-macbook-neo-montre-que-lia-ne-fait-pas-tout",
+"urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/03/macbook-neo-frandroid-8.jpg?resize=1600,900&key=86272f5a&watermark",
+"publishedAt": "2026-06-04T06:40:09Z",
+"content": "Face à un succès commercial insolent, le MacBook Neo domine les ventes d’Apple et oblige l’entreprise à revoir ses prévisions de vente pour 2026. En creux, cette réussite s’inscrit aussi à rebours de… [+2937 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Hugo Clery",
+"title": "Le grand gagnant du projet RTX Spark de Nvidia n’est pas celui que vous croyez",
+"description": "Derrière RTX Spark, on trouve Nvidia, Microsoft et... MediaTek. Le géant taïwanais des puces de smartphones est pourtant bien discret dans la communication officielle. L'entreprise serait-elle finalement la discrète grande gagnante dans le projet ?",
+"url": "https://www.frandroid.com/marques/mediatek-materiels-accessoires/3124903_lallie-de-lombre-pourquoi-nvidia-ne-pouvait-pas-creer-rtx-spark-sans-mediatek",
+"urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/nvidia-mediatek-rtx-spark-resized.jpeg?resize=1600,900&key=3424423d&watermark",
+"publishedAt": "2026-06-04T06:16:48Z",
+"content": "Derrière RTX Spark, on trouve Nvidia, Microsoft et… MediaTek. Le géant taïwanais des puces de smartphones est pourtant bien discret dans la communication officielle. L’entreprise serait-elle finaleme… [+6173 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ifanr.com"
+},
+"author": "郑廷旭",
+"title": "早报｜曝苹果Vision Pro系列被砍/多地高考将查验智能眼镜/DeepSeek首轮融资规模约500亿元",
+"description": "· 荣耀 YOYO 智能体可直接操控微信\n· 苹果公布 2026 Apple 设计大奖得主\n· Google 允许网站退出 AI 搜索#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"url": "https://www.ifanr.com/1668044",
+"urlToImage": "https://s3.ifanr.com/images/ep/cover-images/pao_ku_de_xiao_ge_cover.jpg",
+"publishedAt": "2026-06-04T00:30:40Z",
+"content": "2 Vision Pro \r\nX XR Apple Vision \r\n CEO John Ternus Vision Pro \r\n AR / XR 2029 AI Ray-Ban Meta 2027 \r\nDeepSeek 500 \r\nDeepSeek 500 DeepSeek 3500 4000 \r\nDeepSeek 200 100 50 10 \r\nDeepSeek \r\n2 \r\n2026 6 7… [+2786 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Lorenzo Delli",
+"title": "La strategia degli occhiali smart Apple: non un gadget tech, ma un rivale di Ray-Ban",
+"description": "Apple Glasses puntano al mercato degli occhiali tradizionali, non ai nerd: ecco perché questa strategia cambia tutto sul prodotto finale.\r\nL'articolo La strategia degli occhiali smart Apple: non un gadget tech, ma un rivale di Ray-Ban sembra essere il primo s…",
+"url": "https://www.smartworld.it/news/occhiali-smart-apple-strategia-mercato-ray-ban.html",
+"urlToImage": "https://www.smartworld.it/images/2026/06/04/apple-smart-glasses-2_1200x675.png",
+"publishedAt": "2026-06-04T06:32:00Z",
+"content": "Sappiamo già che gli occhiali smart di Apple sono stati rinviati al 2027, ma c'è una parte del report di Mark Gurman su Bloomberg che merita molta più attenzione della data di lancio: la strategia di… [+2734 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Lorenzo Delli",
+"title": "Samsung al lavoro sul raffreddamento a liquido per i Galaxy top di gamma del 2027-2028",
+"description": "Samsung sta sviluppando un sistema di raffreddamento a liquido per i Galaxy del 2027-2028: ecco come funziona e perché è diverso da RedMagic.\r\nL'articolo Samsung al lavoro sul raffreddamento a liquido per i Galaxy top di gamma del 2027-2028 sembra essere il p…",
+"url": "https://www.smartworld.it/news/samsung-raffreddamento-liquido-galaxy-top-gamma.html",
+"urlToImage": "https://www.smartworld.it/images/2026/06/04/samsung-galaxy-raffreddamento-liquido.png_1200x675.png",
+"publishedAt": "2026-06-04T06:49:00Z",
+"content": "Il calore è il nemico silenzioso degli smartphone moderni, e con l'intelligenza artificiale sempre più integrata nei chip, il problema sta diventando impossibile da ignorare. Samsung lo sa bene e, st… [+3846 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Lorenzo Delli",
+"title": "WhatsApp violato senza clic, senza malware e senza tracce: cosa sta succedendo in Italia",
+"description": "Un attacco zero click svuota account WhatsApp senza link né virus: nemmeno l'autenticazione a due fattori protegge. Cosa sappiamo e cosa manca ancora.\r\nL'articolo WhatsApp violato senza clic, senza malware e senza tracce: cosa sta succedendo in Italia sembra …",
+"url": "https://www.smartworld.it/news/whatsapp-violato-zero-click-attacco-italia.html",
+"urlToImage": "https://www.smartworld.it/images/2026/06/04/whatsapp-malware-italia-2026_1200x675.png",
+"publishedAt": "2026-06-04T05:34:00Z",
+"content": "Segui Smartworld su Google\r\nImmaginate di scoprire che qualcuno ha usato il vostro account WhatsApp per chiedere soldi ai vostri contatti, senza che abbiate cliccato su nulla, scaricato nulla, comuni… [+4443 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Impress.co.jp"
+},
+"author": "笠原 一輝",
+"title": "大注目のDell「XPS 13」をMacBook Neoの実機で比べてみた！",
+"description": "Dell Technologiesは、COMPUTEX 2026の開幕前日となる6月1日(台湾時間)に、同社がCES発表時に今年(2026年)半ばの発表を予告していた「XPS 13」を正式に発表した。本機はCoreシリーズを採用した599ドルの廉価版モデルも用意されており、Appleが3月に発表して話題を呼んだ「MacBook Neo」に匹敵する価格帯に設定されていることが大きな特徴だ。",
+"url": "https://pc.watch.impress.co.jp/docs/news/event/2114427.html",
+"urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/2114/427/010.jpg",
+"publishedAt": "2026-06-04T06:15:02Z",
+"content": "Dell TechnologiesCOMPUTEX 202661()CES(2026)XPS 13Core599Apple3MacBook Neo \r\n Dell TechnologiesXPS 13MacBook Neo"
+},
+{
+"source": {
+"id": null,
+"name": "Appbank.net"
+},
+"author": "AppBank編集部",
+"title": "『餓狼伝説 City of the Wolves』全97曲がSpotify・Apple Musicなどで配信開始！",
+"description": "株式会社SNKは6月3日、対戦格闘ゲーム『餓狼伝説 City of the Wolves』のゲーム内楽曲を、Spotify、Apple Musicをはじめとする主要音楽サブスクリプションサービスにて配信開始したと発表しました。 配信概要 配",
+"url": "https://www.appbank.net/2026/06/04/game/3015467.php",
+"urlToImage": "https://www.appbank.net/wp-content/uploads/2026/06/20260603_204026_964_01.webp",
+"publishedAt": "2026-06-04T03:20:00Z",
+"content": "SNK63 City of the WolvesSpotifyApple Music\r\n202663\r\nSpotifyApple MusicYouTube MusicAmazon MusicLINE MUSIC\r\nChain Reaction97\r\nSeason Pass 2\r\nChain ReactionYouTube\r\nCity of the Wolves2025424PlayStation… [+391 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Techbang.com"
+},
+"author": "WL.",
+"title": "【COMPUTEX 2026】挑戰 MacBook Neo 平價！搭 Intel 平台的 Windows 新機齊發，但兩萬以下的選擇能有什麼？",
+"description": "Intel Wildcat Lake 平價筆電回歸，ASUS 與 Acer 雙雄出擊，然而在兩萬元級下，Windows 的 8GB 記憶體流暢度與成本考驗，將是決定勝負的關鍵。在 COMPUTEX 2026 的展場中，已可看見筆電廠商推出搭載 Intel 代號為 Wildcat Lake 的 Core 系列 3 處理器筆電。而這款採用 Intel 18A 製程技術的晶片，不僅象徵著 x86 架構在功耗比上的絕地反擊，更是為了正面迎擊 Apple 憑藉 599 美元（台灣定價 19,900 元）橫掃全球的 MacB…",
+"url": "https://www.techbang.com/posts/129904-computex-2026-budget-intel-windows-laptops",
+"urlToImage": "https://cdn0.techbang.com/system/excerpt_images/129904/original/dc35757e575831ef615520fc50c300d5.jpeg?1780465361",
+"publishedAt": "2026-06-04T06:30:00Z",
+"content": "COMPUTEX 2026 Intel Wildcat Lake Core 3 Intel 18A x86 Apple 599 19,900 MacBook Neo\r\nNetbook COMPUTEX 2026 Wildcat Lake ASUS VivoBook 14B5 Flip G2 Acer Swift Air 14\r\nASUS VivoBook 14 / 16\r\n AI 14 ASUS… [+946 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Techbang.com"
+},
+"author": "ycr",
+"title": "Google 推出 Gemma 4 12B 開源模型，16GB 記憶體筆電就能本地執行",
+"description": "Google 宣布推出全新開源模型 Gemma 4 12B，Gemma 4 12B 可在僅配備 16GB VRAM 或統一記憶體的筆電上本地執行，讓多模態 AI 與代理應用更容易部署到個人設備。Google 宣布推出全新開源模型 Gemma 4 12B，定位介於輕量級 E4B 與高階 26B Mixture of Experts（MoE）模型之間，主打在較低記憶體需求下提供接近大型模型的推理能力。官方表示，Gemma 4 12B 可在僅配備 16GB VRAM 或統一記憶體的筆電上本地執行，讓多模態 AI 與代理…",
+"url": "https://www.techbang.com/posts/129951-google-gemma-4-12b-open-source-local-run",
+"urlToImage": "https://cdn1.techbang.com/system/excerpt_images/129951/original/f3cc056655b3f2f665ebc83fd32762d4.jpg?1780547917",
+"publishedAt": "2026-06-04T07:30:00Z",
+"content": "Google Gemma 4 12B E4B 26B Mixture of ExpertsMoEGemma 4 12B 16GB VRAM AI \r\nGoogle Gemma 1.5 Gemma 4 12B \r\n 16GB \r\n Gemma 4 26B MoE Gemma 4 12B GPU AI \r\nGemma 4 12B Multi-Token PredictionMTP Token\r\nGe… [+487 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Basicthinking.de"
+},
+"author": "Werbepartner",
+"title": "WM 2026: Jetzt die stärksten Coolblue-Deals für TV, Audio & mehr sichern",
+"description": "Der Beitrag WM 2026: Jetzt die stärksten Coolblue-Deals für TV, Audio & mehr sichern erschien zuerst beim Online-Magazin BASIC thinking. Über unseren Newsletter UPDATE startest du jeden Morgen bestens informiert in den Tag.\nZur Fußball-WM 2026 dreht Coolblue …",
+"url": "https://www.basicthinking.de/blog/2026/06/04/coolblue-wm-angebote-2026-jetzt-die-staerksten-coolblue-deals-fuer-tv-audio/",
+"urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2026/06/coolblue-wm-angebote.jpg",
+"publishedAt": "2026-06-04T07:30:26Z",
+"content": "Zur Fußball-WM 2026 dreht Coolblue an der Preisschraube: Von großen 4K-Fernsehern über Soundbars und Multiroom-Lautsprecher bis hin zu Smartwatches, Gaming-Zubehör und praktischen Küchenhelfern warte… [+4505 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ascii.jp"
+},
+"author": "ASCII",
+"title": "【決定版】iPadのおすすめベスト5【2026年6月版】",
+"description": "快適に動いて、アプリがたくさんあって、ペンでもいろいろ使えるタブレットなら、やっぱり「iPad」！  でも、今はサイズ違いを含めて、iPhone以上の6モデルもあって、どれを選べばいいか悩みます。そこで選び方のポイントとユーザーごとのオススメの製品を紹介します！",
+"url": "https://weekly.ascii.jp/elem/000/004/407/4407473/",
+"urlToImage": "https://ascii.jp/img/2026/06/03/4476816/l/c86bf4e03b478810.png",
+"publishedAt": "2026-06-04T03:00:00Z",
+"content": "iPadiPad6iPhone\r\niPad5iPad\r\n46iPad113\r\niPad1iPad\r\n5iPad\r\niPhone5iPad\r\nApple PencilMaciPad\r\niPad2iPhoneWi-FiOK\r\niPadLANWi-FiWi-FiCellular2\r\niPadWi-FiCellulariPhoneiPhoneWi-FiiPhoneWi-Fi\r\niPhoneMaciPad… [+97 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ascii.jp"
+},
+"author": "ASCII",
+"title": "腕時計の“2個着け”問題ついに解決！ 画面を捨てた「Google Fitbit Air」のヤバすぎる装着感",
+"description": "画面なしトラッカー「Google Fitbit Air」のレビューです。iOS対応でApple Watchとの併用にも最適。新アプリ「Google Health」ではGeminiがデータを分析し、ワークアウトを提案するAIコーチとして活躍します 。スマートグラス連携への期待も膨らむ一台です。",
+"url": "https://weekly.ascii.jp/elem/000/004/407/4407585/",
+"urlToImage": "https://ascii.jp/img/2026/06/03/4476942/l/ac153329745e9e84.jpg",
+"publishedAt": "2026-06-04T03:00:00Z",
+"content": "Google Fitbit AirFitbitAI\r\n2\r\nGeminiGoogle Fitbit Air2\r\nGoogleFitbit2021Fitbit\r\nFitbit AirGoogle Health\r\n519FitbitGoogle HealthFitbit PremiumGoogle Health Premium158013000\r\n1Google HealthGoogle Healt… [+274 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Numerama"
+},
+"author": "Nicolas Lellouche",
+"title": "Nintendo confirme une nouvelle Switch 2 pour l’Europe : voici ce qui change vraiment",
+"description": "Nintendo confirme la commercialisation de versions modifiées de la Switch 2 dans l'Union européenne, pour se conformer au nouveau règlement sur les batteries, applicable le 18 février 2027. L’Europe ne réclame pas un retour aux batteries amovibles, mais deman…",
+"url": "https://www.numerama.com/tech/2267137-nintendo-confirme-une-nouvelle-switch-2-pour-leurope-voici-ce-qui-change-vraiment.html",
+"urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/04/console-01.jpg?resize=1600,900&key=8f98aa9c&watermark",
+"publishedAt": "2026-06-04T08:49:04Z",
+"content": "Nintendo confirme la commercialisation de versions modifiées de la Switch 2 dans l’Union européenne, pour se conformer au nouveau règlement sur les batteries, applicable le 18 février 2027. L’Europe … [+4336 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Gadgeteer"
+},
+"author": "Rei Padla",
+"title": "5 Best Running Trackers for Global Running Day 2026",
+"description": "Global Running Day 2026 is here, and your old GPS watch isn’t going to cut it. June 3 is the one day a year the running world collectively laces up together, and it’s the perfect deadline to finally upgrade the wrist computer you’ve been side-eyeing since you…",
+"url": "https://the-gadgeteer.com/2026/06/03/best-running-trackers-for-global-running-day-2026/",
+"urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2026/06/5-Best-Running-Trackers-for-Global-Running-Day-2026.jpg",
+"publishedAt": "2026-06-04T03:15:58Z",
+"content": "If you buy something from a link in this article, we may earn a commission. Learn more\r\nGlobal Running Day 2026 is here, and your old GPS watch isnt going to cut it. June 3 is the one day a year the … [+7164 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Gadgeteer"
+},
+"author": "Rei Padla",
+"title": "8 Adventure Gadgets That Changed How We Travel",
+"description": "Adventure tech finally stopped being a novelty. Battery density caught up, eSIMs went mainstream, and AI translation got fast enough to feel like magic. The gear below isn’t about gimmicks. It’s the stuff seasoned travelers, digital nomads, and weekend hikers…",
+"url": "https://the-gadgeteer.com/2026/06/03/adventure-gadgets-that-changed-how-we-travel/",
+"urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2026/06/8-Adventure-Gadgets-That-Changed-How-We-Travel.jpg",
+"publishedAt": "2026-06-04T02:00:51Z",
+"content": "If you buy something from a link in this article, we may earn a commission. Learn more\r\nAdventure tech finally stopped being a novelty. Battery density caught up, eSIMs went mainstream, and AI transl… [+7490 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ilfattoquotidiano.it"
+},
+"author": "il Fatto Quotidiano",
+"title": "Gamma ampia, più tecnologia e prezzi competitivi. Duster rilancia",
+"description": "Essential, Expression, Journey e Extreme sono i quattro allestimenti della Dacia Duster, la cui terza generazione “mantiene il miglior rapporto qualità/prezzo del mercato”, assicura il costruttore. Combinati con le quattro motorizzazioni compongono un listino…",
+"url": "https://www.ilfattoquotidiano.it/2026/06/04/gamma-ampia-piu-tecnologia-e-prezzi-competitivi-duster-rilancia/8393361/",
+"urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/05/20/Dacia_Duster_III_hybrid_-_G-150_-_4X4_-_Version_Extreme-5.jpg",
+"publishedAt": "2026-06-04T07:00:53Z",
+"content": "Questo articolo è gratis. \r\nPer leggerne altri, ricevere le newsletter e avere libero accesso ai contenuti scelti dalla redazione \r\nRegistrati \r\nEssential, Expression, Journey e Extreme sono i quattr… [+2837 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Actualidadiphone.com"
+},
+"author": "Actualidad iPhone",
+"title": "Apple diseña un sistema de bloqueo por detección de robo para blindar el iPhone ante los tirones",
+"description": "Apple prepara una función que bloqueará tu iPhone al instante si detecta un tirón en la calle. Blindaje total para tus datos bancarios y fotos.",
+"url": "https://www.actualidadiphone.com/apple-disena-un-sistema-de-bloqueo-por-deteccion-de-robo-para-blindar-el-iphone-ante-los-tirones/",
+"urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2026/06/Funcion-antirrobo-para-bloquear-el-iPhone-1.jpg",
+"publishedAt": "2026-06-04T03:44:56Z",
+"content": "Caminar por las calles de cualquier gran ciudad europea usando el móvil para consultar un mapa o responder un mensaje se ha convertido en una acción cotidiana que, por desgracia, también entraña ries… [+4806 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Actualidadiphone.com"
+},
+"author": "Actualidad iPhone",
+"title": "El impacto del MacBook Neo en la industria: éxito de ventas y reacción inmediata del mercado",
+"description": "El MacBook Neo arrasa con 1,1 millones de ventas. Descubre por qué este portátil de 699€ ha puesto en jaque a Windows y qué ofrece su chip A18 Pro.",
+"url": "https://www.actualidadiphone.com/el-impacto-del-macbook-neo-en-la-industria-exito-de-ventas-y-reaccion-inmediata-del-mercado/",
+"urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2026/06/MacBook-Neo-3.jpg",
+"publishedAt": "2026-06-04T00:08:55Z",
+"content": "Durante mucho tiempo, entrar en el ecosistema de ordenadores de Apple requería un desembolso que rara vez bajaba de la barrera de los mil euros. Esta realidad comercial mantenía a una gran parte de l… [+5043 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Actualidadiphone.com"
+},
+"author": "Actualidad iPhone",
+"title": "Pokémon Champions prepara su desembarco definitivo en dispositivos móviles",
+"description": "¡Confirmado! Pokémon Champions llega a móviles el 17 de junio. Sincroniza tu progreso de Switch, combate gratis y consigue a Mega-Raichu. ¡Regístrate!",
+"url": "https://www.actualidadiphone.com/pokemon-champions-prepara-su-desembarco-definitivo-en-dispositivos-moviles/",
+"urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2026/06/Pokemon-Champions-en-iOS.jpg",
+"publishedAt": "2026-06-04T07:20:49Z",
+"content": "Desde que el pasado mes de abril los usuarios de consolas empezaran a disfrutar de los duelos estratégicos, la comunidad esperaba con ganas noticias sobre la versión portátil. Tras unas semanas de in… [+3789 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "«МегаФон»: всего 10 % телефонов в России готовы к работе в отечественных сетях 5G",
+"description": "В конце июня Госкомиссия по радиочастотам (ГКРЧ), как ожидается, даст добро на запуск операторами сети стандарта пятого поколения мобильной связи (5G) на имеющихся частотах и оборудовании, но для абонентов — физических лиц «сутево практически ничего не произо…",
+"url": "https://3dnews.ru/1142950/megafon-vsego-10-telefonov-v-rossiigotovi-k-rabote-v-otechestvennih-setyah-5g",
+"urlToImage": "https://cdn.3dnews.ru/assets/external/illustrations/2026/06/04/1142950/jonas-leupe-wK-elt11pF0-unsplash.jpg",
+"publishedAt": "2026-06-04T08:28:00Z",
+"content": "(), , (5G) , — « », «» ().\r\n : Jonas Leupe/unsplash.com\r\n«» , 5G , 18-20 %. , 10 % 5G. , , Samsung Apple 5G 5G « ». (4,63-4,99 ), 5G, — , 5G. \r\n «» 5G. «, , 5G - , . », — .\r\n, 5G , , . 5G , , , , .\r\n… [+61 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Apple sắp có iPhone màn hình gập dùng bản lề kim loại lỏng, giá tầm 2000 USD anh em ơi!!",
+"description": "Apple sắp có iPhone màn hình gập dùng bản lề kim loại lỏng, giá tầm 2000 USD anh em ơi!!\n\nMấy nay mình thấy giới công nghệ đang xôn xao vụ leaker \"Fixed Focus Digital\" bên Weibo báo tin Apple đang đẩy nhanh tiến độ làm iPhone gập.",
+"url": "https://tinhte.vn/thread/apple-sap-co-iphone-man-hinh-gap-dung-ban-le-kim-loai-long-gia-tam-2000-usd-anh-em-oi.4148255/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2026/06/9032914_Apple-Foldable-Thumb-3.jpg",
+"publishedAt": "2026-06-04T00:06:30Z",
+"content": "Apple sp có iPhone màn hình gp dùng bn l kim loi lng, giá tm 2000 USD anh em i!!My nay mình thy gii công ngh ang xôn xao v leaker \"Fixed Focus Digital\" bên Weibo báo tin Apple ang y nhanh tin làm iPh… [+497 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Thị trường PC căng thẳng, mà Macbook Neo thì khác",
+"description": "Thị trường PC căng thẳng, mà Macbook Neo thì khác\n\nTình trạng thiếu hụt bộ nhớ toàn cầu đang ảnh hưởng nặng nề đến thị trường máy tính. Theo mình tìm hiểu từ dự báo của IDC, lượng xuất xưởng PC toàn cầu năm 2026 có thể giảm 11.",
+"url": "https://tinhte.vn/thread/thi-truong-pc-cang-thang-ma-macbook-neo-thi-khac.4148249/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2026/06/9032908_macbook-neo-new-lime.jpg",
+"publishedAt": "2026-06-04T08:36:38Z",
+"content": "Th trng PC cng thng, mà Macbook Neo thì khácTình trng thiu ht b nh toàn cu ang nh hng nng n n th trng máy tính. Theo mình tìm hiu t d báo ca IDC, lng xut xng PC toàn cu nm 2026 có th gim 11.3%, thm c… [+467 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Apple доверит ИИ-чипам Nvidia обработку данных пользователей Siri",
+"description": "Исторически Apple делала особый упор на защиту личных данных своих пользователей, а потому нередко полагалась на фирменную инфраструктуру при их обработке, чтобы полностью контролировать процесс. Полагаясь на инфраструктуру Google Cloud в работе ассистента Si…",
+"url": "https://3dnews.ru/1142943/apple-doverit-iichipam-nvidia-obrabotku-dannih-polzovateley-siri",
+"urlToImage": "https://cdn.3dnews.ru/assets/external/illustrations/2026/06/04/1142943/apple_siri.jpg",
+"publishedAt": "2026-06-04T07:12:00Z",
+"content": "Apple , , . Google Cloud Siri, Nvidia Blackwell.\r\n: Nvidia\r\n9to5Mac The Information, Siri Google Cloud, - Google Gemini. Apple Nvidia B200 Blackwell, , . Nvidia, .\r\n Nvidia Rubin, Apple Google. Apple… [+40 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Everything-everywhere.com"
+},
+"author": "Gary Arndt",
+"title": "Joseph Mengele: The Angel of Death",
+"description": "Podcast Transcript A doctor’s white coat is supposed to symbolize the healing, trust, and compassion of a medical professional. During the Holocaust, however, it became something very different in the hands of one of history’s most infamous criminals.  His cr…",
+"url": "https://everything-everywhere.com/joseph-mengele-the-angel-of-death/",
+"urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-b98R79f/0/MM7MHj2m6hzdrTbGTC7h5zJZ6nhdMhxhdLVhppCQG/L/2159epart-L.jpg",
+"publishedAt": "2026-06-04T05:35:53Z",
+"content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook | IMDB\r\nA doctors white coat is supposed to symbolize the healing, trust, and compas… [+12406 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Pnghuy), Pnghuy",
+"title": "COMPUTEX 2026: Trên tay Dell XPS 13: Dell mà bán chiếc laptop này dưới 20 triệu thì...",
+"description": "Dell XPS 13 phiên bản mà mình giới thiệu với anh em tại COMPUTEX 2026 năm nay chính là phiên bản XPS mỏng nhất, nhẹ nhất từng được Dell làm ra. Dell mang thương hiệu XPS vốn dành cho \"premium ultrabook\" xuống một phân khúc dễ tiếp cận hơn cho người…",
+"url": "https://tinhte.vn/thread/computex-2026-tren-tay-dell-xps-13-dell-ma-ban-chiec-laptop-nay-duoi-20-trieu-thi.4148200/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2026/06/9032920_Trentay-Dell-XPS-13-pnghuy-tinhte-16.jpg",
+"publishedAt": "2026-06-04T02:43:39Z",
+"content": "Tm b qua v cách t tên, thc s XPS 13 ang trên tay mình ây nó vn có DNA ca Dell XPS các bn, ó là build quality chc chn, nhôm dày, cm giác cm và chm vào nó vn cc kì cao cp, máy siêu mng và nh.úng là phi… [+1058 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Emiliano Contarino",
+"title": "La sala da concerti Wigmore Hall si allea con Apple Music Classical",
+"description": "La Wigmore Hall si allea con Apple Music Classical: le registrazioni live diventano digitali e il 100% delle royalties va direttamente agli artisti.\n- su macitynet.it La sala da concerti Wigmore Hall si allea con Apple Music Classical",
+"url": "https://www.macitynet.it/la-salta-da-concerti-wigmore-hall-si-allea-con-apple-music-classical/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/03/AppleMusicClassicalspot.jpg",
+"publishedAt": "2026-06-04T07:29:18Z",
+"content": "La celebre Wigmore Hall di Londra si proietta nel futuro dello streaming e rilancia la propria etichetta, Wigmore Hall Live, in una veste completamente digitale grazie a una collaborazione con Apple … [+2144 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Fabrizio Frattini",
+"title": "Apple dice addio ai visori e punta sugli occhiali: la svolta voluta di Ternus",
+"description": "Apple ha abbandonato i visori e punta tutto sugli occhiali intelligenti. Una rivoluzione di proprità avallata dal futuro CEO John Ternus, che ridisegna il futuro della Mela nella realtà aumentata per i prossimi anni\n- su macitynet.it Apple dice addio ai visor…",
+"url": "https://www.macitynet.it/?p=1473320",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2019/06/logomacitynet1200wide-1.jpg",
+"publishedAt": "2026-06-04T05:43:04Z",
+"content": "Da sette prodotti sulla rampa di lancio a solo due. Il primo a fine 2027. Apple ha ridisegnato in profondità le sue priorità nel campo della realtà aumentata, abbandonando i visori per puntare tutto … [+2745 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Pubblicità",
+"title": "Offerte Amazon 4 giugno: Apple, Xiaomi, Shelly, Eve, Google, Samsung, Fujifilm, Hisense",
+"description": "Le migliori offerte Amazon del 4 giugno 2026: dispositivi tech e accessori per la vita di tutti i giorni, selezionati da Macitynet.\n- su macitynet.it Offerte Amazon 4 giugno: Apple, Xiaomi, Shelly, Eve, Google, Samsung, Fujifilm, Hisense",
+"url": "https://www.macitynet.it/?p=1473329",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2018/04/amazonlista4.jpg",
+"publishedAt": "2026-06-04T06:29:37Z",
+"content": "Quelle che trovate elencate in questa pagina sono le offerte Amazon valide nel momento in cui scriviamo.\r\nSono ancora valide queste offerte:\r\n<ol><li>Amazon Music Unlimited, 4 Mesi GRATIS fino al 29 … [+3850 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Antonio Dini",
+"title": "Computex 2026: Qualcomm se la gioca in difesa, meno annunci e più strategia sugli agenti AI",
+"description": "Mentre la concorrenza spinge su nuove architetture e la promessa di reinventare il PC, Qualcomm ha scelto di giocare una carta diversa: gli agenti AI, la vera partita dell'intelligenza artificiale nei prossimi anni. Nativi, quotidiani, su ogni dispositivo, a …",
+"url": "https://www.macitynet.it/computex-2026-qualcomm/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2026/06/qualcomm2.jpg",
+"publishedAt": "2026-06-04T05:29:06Z",
+"content": "Dopo gli annunci bomba di Nvidia al Computex 2026, ci si poteva aspettare che Qualcomm raddoppiasse. E invece l’azienda di San Diego ha scelto di toccarla molto piano. Sobrietà invece dell’effetto an… [+12030 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elespanol.com"
+},
+"author": "Daniel González",
+"title": "FREE FIRE MAX | Códigos de hoy jueves 4 de junio de 2026 - Recompensas gratis",
+"description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire MAX que podrás canjear hoy, jueves 4 de junio de 2026. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido n…",
+"url": "https://vandal.elespanol.com/noticia/1350790431/free-fire-max-codigos-de-hoy-jueves-4-de-junio-de-2026-recompensas-gratis/",
+"urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/6/6-2026/4/202664851338_2.jpg",
+"publishedAt": "2026-06-04T06:05:00Z",
+"content": "El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido nuevos códigos diarios para hoy jueves 4 de junio de 2026.\r\nLos jugadores pueden canjear estos códigos para recibir recompensas … [+2871 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Vision Pro è già morto? La svolta a Cupertino voluta dal nuovo CEO Ternus",
+"description": "Il futuro della realtà mista di Apple passa per un deciso intervento sulla roadmap direttamente del prossimo CEO John Ternus: cancellati i successori diretti di Vision Pro per fare spazio a soli due modelli di occhiali smart entro il 2029",
+"url": "https://www.hwupgrade.it/news/apple/vision-pro-e-gia-morto-la-svolta-a-cupertino-voluta-dal-nuovo-ceo-ternus_154359.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/AppleVisionProUso_720_720.jpg",
+"publishedAt": "2026-06-04T08:51:01Z",
+"content": "Una ristrutturazione profonda, firmata dal successore designato di Tim Cook alla guida di Apple. Secondo l'ultimo e sorprendente aggiornamento dell'analista di TF International Securities, Ming-Chi K… [+2887 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Tuo figlio ti sta chiamando, ma è un'IA: ecco come Google ti salverà dalle truffe telefoniche",
+"description": "Un nuovo sistema di sicurezza integrato nello smartphone Android permetterà agli utenti di ricevere un alert durante una chiamata se viene rilevata una possibile truffa di impersonificazione",
+"url": "https://www.hwupgrade.it/news/telefonia/tuo-figlio-ti-sta-chiamando-ma-e-un-ia-ecco-come-google-ti-salvera-dalle-truffe-telefoniche_154341.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/google telefono_720.jpeg",
+"publishedAt": "2026-06-04T06:21:02Z",
+"content": "La diffusione dell'intelligenza artificiale comporta anche una serie di nuove minacce per gli utenti. Una di queste è rappresentata dalle truffe di impersonificazione con la vittima che può ricevere … [+1583 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Shutterbean.com"
+},
+"author": "Tracy",
+"title": "Pineapple Apple Fruit Salad",
+"description": "Pineapple Apple Fruit Salad  serves 6-8 1 pineapple, peeled, cored, and cut into bite-sized cubes 2 apples, cut into chunks, the same size as the pineapple juice of 1 lime 1 heaping tablespoon lemon verbena 2 tablespoons chopped fresh mint Place the pineapple…",
+"url": "https://www.shutterbean.com/2026/pineapple-apple-fruit-salad/",
+"urlToImage": "https://i1.wp.com/www.shutterbean.com/wp-content/uploads/2026/06/pineappleapplesalad-9.jpg?fit=700%2C914&ssl=1",
+"publishedAt": "2026-06-04T09:22:33Z",
+"content": "If you have to bring a salad to a BBQ, picnic, or party this Summer, might I suggest this simple Pineapple Apple Fruit Salad?  I stumbled upon this combo a few years ago, and there’s no looking back!… [+1359 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Apple Design Awards 2026: c'è anche un'app italiana tra i premiati",
+"description": "A una settimana dalla WWDC, Apple ha premiato dodici app e giochi con gli Apple Design Awards 2026. Tra i vincitori c'è anche un'app italiana, Moonlitt di Flipping Hues, mentre Cyberpunk 2077 conquista la categoria dedicata alla grafica",
+"url": "https://www.hwupgrade.it/news/apple/apple-design-awards-2026-c-e-anche-un-app-italiana-tra-i-premiati_154353.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/wwdc_ada_26_720.jpg",
+"publishedAt": "2026-06-04T08:31:01Z",
+"content": "Nei giorni scorsi Apple ha annunciato i dodici vincitori degli Apple Design Awards 2026, i riconoscimenti che la Mela assegna ogni anno a ridosso della WWDC alle app e ai giochi che meglio interpreta… [+2794 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Apple sceglie Berlino per il suo quinto Developer Center nel mondo",
+"description": "Sorgerà nel quartiere Mitte e sarà il quinto centro al mondo dopo Cupertino, Shanghai, Singapore e Bengaluru: sessioni in presenza, workshop e laboratori con esperti Apple per gli sviluppatori europei. Apertura prevista entro la fine del 2026.",
+"url": "https://www.hwupgrade.it/news/apple/apple-sceglie-berlino-per-il-suo-quinto-developer-center-nel-mondo_154350.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/apple_dev_berlin_720.jpg",
+"publishedAt": "2026-06-04T05:44:54Z",
+"content": "Apple ha annunciato che entro la fine dell'anno aprirà a Berlino il primo Apple Developer Center d'Europa, una struttura dedicata al supporto diretto degli sviluppatori del continente. La sede sorger… [+2381 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Blogdumoderateur.com"
+},
+"author": "Étienne Caillebotte",
+"title": "IA, link in bio, SEO : 5 nouveaux outils à découvrir sur Product Hunt en mai 2026",
+"description": "Un générateur de contenus optimisés pour le SEO, un agent IA qui passe des appels à votre place... Voici cinq outils qui ont retenu l'attention des utilisateurs de Product Hunt en mai 2026.",
+"url": "https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-mai-2026/",
+"urlToImage": "https://f.hellowork.com/blogdumoderateur/2026/06/classement-product-hunt-mai-2026-1200x628.jpg",
+"publishedAt": "2026-06-04T06:00:47Z",
+"content": "Recevez la newsletter BDM \r\nRecevez la newsletter BDM \r\nAller au contenuTrouver un outil\r\nVoir les événements\r\nRecevoir la newsletter du digital\r\nVoir les guides\r\nUn générateur de contenus optimisés … [+6805 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macotakara.jp"
+},
+"author": "danbo",
+"title": "Apple、Safariのプライバシー保護をアピールした「Privacy on iPhone: Safari helps block data trackers」を公開",
+"description": "Privacy on iPhone: Safari helps block data trackers\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、YouTubeにて「Privacy on iPhone: Safari helps block data trackers」を公開しています。\n\nSafariは、クロスサイトトラッキングからユーザーを守り、既知のトラッカーからIPアドレスを隠すなど、最先端の機能により、…",
+"url": "https://www.macotakara.jp/safari/entry-51200.html",
+"urlToImage": "https://www.macotakara.jp/archives/001/202606/f5a20f054826e70a.jpg",
+"publishedAt": "2026-06-04T00:27:21Z",
+"content": "Privacy on iPhone: Safari helps block data trackers\r\nWebKit\r\nAppleSafariAppleHTMLWebKit2003Safari 1.0\r\nAppleiOSmacOSiPadOStvOSwatchOSWebKitCookieCookieCookie\r\nCookieCookie\r\nCookieSafari 1.0"
+},
+{
+"source": {
+"id": null,
+"name": "ZDNet France"
+},
+"author": "Marc Zaffagni",
+"title": "SpaceX vise 75 milliards de dollars en Bourse pour une valorisation record",
+"description": "La société aérospatiale d’Elon Musk vise une cotation sur le Nasdaq le 12 juin prochain sous le symbole SPCX, pour ce qui serait la plus grande introduction en Bourse de l’histoire des marchés américains.",
+"url": "https://www.zdnet.fr/actualites/spacex-vise-75-milliards-de-dollars-en-bourse-pour-une-valorisation-record-496132.htm",
+"urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/spacex.jpg",
+"publishedAt": "2026-06-04T06:21:15Z",
+"content": "SpaceX a officialisé les termes de son introduction en Bourse en déposant un dossier auprès de la SEC (Securities and Exchange Commission). Lentreprise dElon Musk prévoit démettre 555,6 millions dact… [+2853 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacGeneration"
+},
+"author": "Greg Onizuka",
+"title": "ARM/RTX, Nvidia vient pour durer, et rêve de transformer le PC en R2-D2",
+"description": "L’arrivée de Nvidia sur le terrain d’Apple et de ses puces Mx apparaît soudaine, mais en filigrane, c’est très différent : non seulement la réflexion date déjà de plusieurs années en arrière entre Satya Nadella (Microsoft) et Jensen Huang (Nvidia), mais en pl…",
+"url": "https://www.macg.co/ailleurs/2026/06/armrtx-nvidia-vient-pour-durer-et-reve-de-transformer-le-pc-en-r2-d2-308959",
+"urlToImage": "https://cdn.mgig.fr/2026/06/mga-08894a5b-w375-w1500-w750_accroche.jpg",
+"publishedAt": "2026-06-04T04:15:00Z",
+"content": "Larrivée de Nvidia sur le terrain dApple et de ses puces Mx apparaît soudaine, mais en filigrane, cest très différent : non seulement la réflexion date déjà de plusieurs années en arrière entre Satya… [+5297 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gori.me"
+},
+"author": "g.O.R.i",
+"title": "ブラウザは本当に何でもいい？プライバシーを理由にSafariを選ぶという考え方",
+"description": "ブラウザなんて何でもいい。MacでもiPadでもiPhoneでも、好きなものを使えばいい。そう考えている人は、きっと多いはずだ。 僕自身、ChromeもCometも触るし、もちろんSafariも毎日使っている。ブラウザを1つに固定する必要はないし、用途によって使い分けるのはむしろ大事なことだ。 それ…\nThe post ブラウザは本当に何でもいい？プライバシーを理由にSafariを選ぶという考え方 first appeared on ゴリミー. 【もっと読む】",
+"url": "https://gori.me/apple/apple-news/166796",
+"urlToImage": "https://gori.me/uploads/2026/06/Privacy-and-Safari-experience-is-top-notch-10-800x534.jpg",
+"publishedAt": "2026-06-04T00:00:14Z",
+"content": "MaciPadiPhone\r\nChromeCometSafari1\r\nEC\r\nWeb\r\nWeb71100\r\nAppleCM\r\nApple\r\nSafariMac iPhoneAppleGoogle Chrome5\r\nAppleSafariApple1\r\nApple\r\nSafari\r\n? ? ? \r\nAppleSafari\r\nSafari\r\n?2\r\n1\r\n2Chrome\r\nSafari\r\nSafar… [+347 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Inside Higher Ed"
+},
+"author": "Joshua.Bay",
+"title": "Can Colleges Actually Build Student Well-Being?",
+"description": "Can Colleges Actually Build Student Well-Being?\n\n \n\n\n \nJoshua.Bay\n\nThu, 06/04/2026 - 03:00 AM\n\nIn this week’s Voices of Student Success episode, NYU’s Zoe Ragouzeos explains how campuses can move beyond counseling centers to embed student well-being into the …",
+"url": "https://www.insidehighered.com/news/student-success/health-wellness/2026/06/04/can-colleges-actually-build-student-well-being",
+"urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-06/The_Key_podcast_title_card_Zoe_Ragouzeos_0.jpg?itok=bwWquOU0",
+"publishedAt": "2026-06-04T07:00:00Z",
+"content": "As institutions face growing demand for mental health support, rising rates of loneliness and new questions about where students are turning for help, many campus leaders are being forced to rethink … [+15006 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Expansion.com"
+},
+"author": "expansion.com",
+"title": "La Primera de Expansión sobre Santander, Unicaja, Kutxabank, Abanca, Deepseek y SpaceX",
+"description": "Santander cubrirá la aportación de Polonia con su estrategia en comisiones. La dirección prevé cerrar 2026 con un margen bruto en línea o incluso por encima del de el año pasado gracias a su estrategia renovada y centrada en mercados maduros. Leer",
+"url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/06/04/6a210704468aebd6488b4578.html",
+"urlToImage": "https://e01-phantom-expansion.uecdn.es/e92e6b244d5d40bd72bee84a9ac333a5/resize/1200/f/webp/assets/multimedia/imagenes/2026/06/04/17805479036621.jpg",
+"publishedAt": "2026-06-04T05:24:32Z",
+"content": "Santander cubrirá la aportación de Polonia con su estrategia en comisiones. La dirección prevé cerrar 2026 con un margen bruto en línea o incluso por encima del de el año pasado gracias a su estrateg… [+848 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iphone-ticker.de › iPhone-News seit 2007"
+},
+"author": "chris",
+"title": "Neuer iPhone-Spot stellt Datenschutz in den Mittelpunkt",
+"description": "Im neuesten Werbevideo für das iPhone legt Apple den Fokus wieder auf den Schutz persönlicher Daten. Im Mittelpunkt steht dabei einmal mehr Apples Webbrowser Safari und die damit verfügbaren Möglichkeiten, sich besser vor Online-Tracking zu schützen. Anstatt …",
+"url": "https://www.iphone-ticker.de/neuer-iphone-spot-stellt-datenschutz-in-den-mittelpunkt-279010/",
+"urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2026/06/iphone-safari-feature.jpg",
+"publishedAt": "2026-06-04T07:22:13Z",
+"content": "Im neuesten Werbevideo für das iPhone legt Apple den Fokus wieder auf den Schutz persönlicher Daten. Im Mittelpunkt steht dabei einmal mehr Apples Webbrowser Safari und die damit verfügbaren Möglichk… [+1775 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iphone-ticker.de › iPhone-News seit 2007"
+},
+"author": "chris",
+"title": "Neue Siri offenbar mit Unterstützung von Google und Nvidia",
+"description": "Eine der spannendsten Fragen rund um Apples für Montag erwartete KI-Ankündigungen betrifft die praktische Umsetzung. Um die Leistungsanforderungen moderner KI-Systeme zu erfüllen, wird Apple nicht umhinkommen, externe Cloud-Infrastrukturen mit einzubeziehen. …",
+"url": "https://www.iphone-ticker.de/neue-siri-offenbar-mit-unterstuetzung-von-google-und-nvidia-279018/",
+"urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2026/06/nvidia-blackwell-feature.jpg",
+"publishedAt": "2026-06-04T08:59:13Z",
+"content": "Eine der spannendsten Fragen rund um Apples für Montag erwartete KI-Ankündigungen betrifft die praktische Umsetzung. Um die Leistungsanforderungen moderner KI-Systeme zu erfüllen, wird Apple nicht um… [+1856 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iphone-ticker.de › iPhone-News seit 2007"
+},
+"author": "chris",
+"title": "EZB bereitet Testlauf für digitalen Euro vor",
+"description": "Mit der Einführung des digitalen Euro wird zwar erst 2029 gerechnet. Allerdings will die Europäische Zentralbank (EZB) bereits m kommenden Jahr ein zeitlich begrenztes Pilotprojekt zur Vorbereitung auf die neue Digitalwährung starten. Wie das Handelsblatt ber…",
+"url": "https://www.iphone-ticker.de/ezb-bereitet-testlauf-fuer-digitalen-euro-vor-278999/",
+"urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2026/06/digitaler-euro-ezb-feature.jpg",
+"publishedAt": "2026-06-04T05:37:05Z",
+"content": "Mit der Einführung des digitalen Euro wird zwar erst 2029 gerechnet. Allerdings will die Europäische Zentralbank (EZB) bereits m kommenden Jahr ein zeitlich begrenztes Pilotprojekt zur Vorbereitung a… [+1963 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iculture.nl"
+},
+"author": "Benjamin Kuijten",
+"title": "iCulture peilt: waar kijk jij het meest naar uit van de WWDC 2026-keynote?",
+"description": "Er staan weer veel Apple-aankondigingen op de planning tijdens de WWDC, dus er is genoeg om naar uit te kijken. Maar waar ben jij het meest benieuwd naar? Stem in onze poll!\nHet artikel iCulture peilt: waar kijk jij het meest naar uit van de WWDC 2026-keynote…",
+"url": "https://www.iculture.nl/nieuws/iculture-peilt-poll-wwdc-2026/",
+"urlToImage": "https://www.iculture.nl/wp-json/social-image-generator/v1/image/1453774/?v=14492841780571537",
+"publishedAt": "2026-06-04T09:15:00Z",
+"content": "Er komen weer allemaal nieuwe functies naar je iPhone, iPad, Mac, Apple Watch en andere Apple-producten, want de WWDC staat voor de deur. Tijdens dit grootse softwarefeestje kondigt Apple doorgaans d… [+3127 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iculture.nl"
+},
+"author": "Benjamin Kuijten",
+"title": "WhatsApp maakt handige lijst-functie veel makkelijker in gebruik",
+"description": "WhastApp heeft een update gepland voor de handige lijst-functie. Daarmee kun je gesprekken ordenen in verschillende lijsten. Maar de manier hoe je deze lijsten beheert, gaat veranderen.\nHet artikel WhatsApp maakt handige lijst-functie veel makkelijker in gebr…",
+"url": "https://www.iculture.nl/nieuws/whatsapp-lijst-functie-update/",
+"urlToImage": "https://www.iculture.nl/wp-json/social-image-generator/v1/image/1453756/?v=14151031780565261",
+"publishedAt": "2026-06-04T07:27:32Z",
+"content": "Sinds enige tijd biedt WhatsApp een handige functie waarmee je je gesprekken kan categoriseren in mappen. Zo maak je bijvoorbeeld een groep aan met collega’s, familie of meest hechte vrienden. Maar a… [+1746 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MobileSyrup"
+},
+"author": "Jonathan Lamont",
+"title": "Apple touts privacy features in latest Safari push",
+"description": "Apple is promoting its Safari web browser’s privacy features in a new marketing push that includes a video, billboards, digital ads, and more. The ad (embedded below) shows people walking around with data trackers on their backs to highlight how Safari blocks…",
+"url": "https://mobilesyrup.com/2026/06/03/apple-touts-privacy-features-safari-push/",
+"urlToImage": "https://production-static.mobilesyrup.com/uploads/2026/06/safari-icon-header-resize-20260603-scaled.jpg",
+"publishedAt": "2026-06-04T00:00:08Z",
+"content": "Apple is promoting its Safari web browser’s privacy features in a new marketing push that includes a video, billboards, digital ads, and more.\r\nThe ad (embedded below) shows people walking around wit… [+2584 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elnacional.cat"
+},
+"author": "Sergio J. Ortiz",
+"title": "Este reloj inteligente es una alternativa perfecta al Apple Watch y cuesta 3 veces menos",
+"description": "Un smartwatch facilita mucho la vida. Es un dispositivo wearable que permite tener todo mucho más a mano que un smartphone. Con un reloj inteligente no solo puedes estar pendiente de la hora; tiene funciones avanzadas de salud y de monitorización de entrenami…",
+"url": "https://www.elnacional.cat/es/tecnologia/este-reloj-inteligente-es-alternativa-perfecta-apple-watch-cuesta-3-veces-menos_1650128_102.html",
+"urlToImage": "https://www.elnacional.cat/uploads/s1/58/60/29/26/amazfit-active-2_4_1258x630.jpeg",
+"publishedAt": "2026-06-04T08:00:00Z",
+"content": "Un smartwatch facilita mucho la vida. Es un dispositivo wearable que permite tener todo mucho más a mano que un smartphone. Con un reloj inteligente no solo puedes estar pendiente de la hora; tiene f… [+2094 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xakep.ru"
+},
+"author": "Мария Нефёдова",
+"title": "Мессенджер Max удалили из Apple App Store",
+"description": "Вечером 3 июня 2026 года приложение Max было удалено из App Store. Разработчики подтвердили, что в настоящее время мессенджер недоступен в магазине Apple, но причины удаления пока остаются неизвестными.",
+"url": "https://xakep.ru/2026/06/04/max-app-store/",
+"urlToImage": "https://xakep.ru/wp-content/uploads/2026/06/576715/MAX.jpg",
+"publishedAt": "2026-06-04T08:30:16Z",
+"content": "3 2026 Max App Store. , Apple, .\r\nApple . , , - .\r\n Max , App Store. , , , Max .\r\n , Apple , .\r\n App Store, . , Max - RuStore, Google Play, Huawei AppGallery, Samsung Store, Xiaomi Store, Vivo Store,… [+1 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Designer-daily.com"
+},
+"author": "Peter Makeshoff",
+"title": "Why Designers Are Switching to Modern Publishing Software on Mac",
+"description": "Mac graphic design has never been short of capable tools. The platform built its reputation on creativity, and most designers working in it today have refined the stack they trust entirely. But the publishing layer, the step between finished art and a file re…",
+"url": "https://www.designer-daily.com/why-designers-are-switching-to-modern-publishing-software-on-mac-231059",
+"urlToImage": "https://www.designer-daily.com/wp-content/uploads/2026/06/image-1.jpeg",
+"publishedAt": "2026-06-04T02:56:41Z",
+"content": "Mac graphic design has never been short of capable tools. The platform built its reputation on creativity, and most designers working in it today have refined the stack they trust entirely. But the p… [+3190 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Begeek.fr"
+},
+"author": "Morgan Fromentin",
+"title": "Guillermo Del Toro salue avec audace la nouvelle série horrifique d’Apple TV",
+"description": "Le cinéaste Guillermo Del Toro s’est récemment exprimé au sujet de la nouvelle série d’horreur diffusée sur Apple TV, formulant une affirmation audacieuse qui attire l’attention des amateurs du genre et suscite de nombreuses réactions dans le milieu audiovisu…",
+"url": "https://www.begeek.fr/guillermo-del-toro-salue-avec-audace-la-nouvelle-serie-horrifique-dapple-tv-433075",
+"urlToImage": "https://www.begeek.fr/app/uploads/2026/06/Widows-Bay.webp",
+"publishedAt": "2026-06-04T07:00:58Z",
+"content": "Le cinéaste Guillermo Del Toro sest récemment exprimé au sujet de la nouvelle série dhorreur diffusée sur Apple TV, formulant une affirmation audacieuse qui attire lattention des amateurs du genre et… [+2912 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Begeek.fr"
+},
+"author": "Jordan Servan",
+"title": "Un design et des technologies inédites pour l’iPhone pliant",
+"description": "Avec un prix proche de 2000 dollars, l’iPhone Ultra veut rivaliser avec les leaders du secteur.",
+"url": "https://www.begeek.fr/un-design-et-des-technologies-inedites-pour-liphone-pliant-433125",
+"urlToImage": "https://www.begeek.fr/app/uploads/2025/10/iPhone_Fold.jpg",
+"publishedAt": "2026-06-04T06:00:39Z",
+"content": "Avec un prix proche de 2000 dollars, liPhone Ultra veut rivaliser avec les leaders du secteur.\r\nTl;dr\r\n<ul><li>De nouvelles fuites évoquent liPhone Ultra pliant dApple, avec un design de type « passe… [+2948 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Autocar"
+},
+"author": null,
+"title": "5000 miles in a 2005 BMW 3 Series: Can you daily drive a modern classic?",
+"description": "We trade ADAS bongs and touchscreens for a simple straight-six coupé, making tweaks to bring it up to date\n\nThe last time I ran a 2005-model-year long-term test car was, more or less, in 2005. But here we are again. This is an E46-generation BMW 330Ci coupé a…",
+"url": "https://www.autocar.co.uk/car-review/bmw/3-series-coupe-1999-2007/long-term-reviews/5000-miles-2005-bmw-3-series-can-you-daily",
+"urlToImage": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/long-term-review/legacy/1-bmw-330ci-e46-lt-2026-jh-23.jpg",
+"publishedAt": "2026-06-04T05:00:00Z",
+"content": "Seven parts, then, for £1790, and to fit them I booked an appointment with a delightful man called Derek Drinkwater, an American-car specialist whose garage does a lot of telly work and who recently … [+2118 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ispazio.net"
+},
+"author": "Francesco Santagati",
+"title": "Ternus cancella Vision Pro 2 e Vision Air, Apple punta tutto sugli smart glasses",
+"description": "Ternus cancella Vision Pro 2 e Vision Air, Apple punta tutto sugli smart glasses\n\nIl Vision Pro così come lo conosciamo potrebbe non avere un successore diretto, almeno non nel breve periodo. Stando alle ultime indiscrezioni di Ming-Chi Kuo, il futuro CEO di …",
+"url": "https://www.ispazio.net/2233583/apple-smart-glasses-cancellato-vision-pro-2-vision-air-ternus",
+"urlToImage": "https://www.ispazio.net/wp-content/uploads/2026/06/apple-smart-glasses-cancellato-vision-pro-2-vision-air-ternus-ispazio.jpg",
+"publishedAt": "2026-06-04T08:11:23Z",
+"content": "Il Vision Pro così come lo conosciamo potrebbe non avere un successore diretto, almeno non nel breve periodo. Stando alle ultime indiscrezioni di Ming-Chi Kuo, il futuro CEO di Apple John Ternus avre… [+2508 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ispazio.net"
+},
+"author": "Francesco Santagati",
+"title": "Apple utilizzerà i chip Nvidia B200 su Google Cloud per far funzionare la nuova Siri con Gemini",
+"description": "Apple utilizzerà i chip Nvidia B200 su Google Cloud per far funzionare la nuova Siri con Gemini\n\nLa nuova Siri potenziata da Gemini potrebbe appoggiarsi, almeno in parte, a chip esterni. Stando a quanto riportato da The Information, alcune query inviate alla …",
+"url": "https://www.ispazio.net/2233596/siri-gemini-chip-nvidia-blackwell-google-cloud",
+"urlToImage": "https://www.ispazio.net/wp-content/uploads/2026/06/siri-gemini-chip-nvidia-blackwell-google-cloud-ispazio.jpg",
+"publishedAt": "2026-06-04T08:31:15Z",
+"content": "La nuova Siri potenziata da Gemini potrebbe appoggiarsi, almeno in parte, a chip esterni. Stando a quanto riportato da The Information, alcune query inviate alla nuova versione dell’assistente di App… [+1955 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Ryan Giancola",
+"title": "Browns starting quarterback still a question mark: ‘We got two starting-level QBs’",
+"description": "The Cleveland quarterback conundrum continues.",
+"url": "https://nypost.com/2026/06/03/sports/browns-starting-quarterback-still-a-question-mark-we-got-two-starting-level-qbs/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/Sn0INPsjS_kUVfDKNzfsiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ny_post_sports_articles_389/52fb845b89be6db4ad2d4cb6c3683588",
+"publishedAt": "2026-06-04T00:59:54Z",
+"content": "The Cleveland quarterback conundrum continues.\r\nThe Browns have been holding practice over the last few weeks, still without a definitive answer on who will be the starting quarterback of the future.… [+2204 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphon.fr"
+},
+"author": "Jason Filankembo",
+"title": "iOS 27 : pour sauver Siri, Apple se tourne vers son plus grand rival",
+"description": "Apple s'associe à un autre concurrent historique en plus de Google.",
+"url": "https://www.iphon.fr/post/ios-27-sauver-siri-apple-tourne-plus-grand-rival",
+"urlToImage": "https://www.iphon.fr/app/uploads/2025/06/iPhone-Siri-4-1600x900.jpg",
+"publishedAt": "2026-06-04T08:38:49Z",
+"content": "iOS 27 sera-t-elle la mise à jour à même de propulser Apple dans le domaine de l’intelligence artificielle ? Nous aurons de premiers éléments de réponse à partir du 8 juin prochain à 19 h, heure fran… [+1804 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphon.fr"
+},
+"author": "Tristan Carballeda",
+"title": "Vision Pro : l’avenir du casque remis en question, le futur CEO d’Apple a tranché",
+"description": "Le Vision Pro résistera-t-il à l'arrivée de John Ternus à la tête d'Apple ? Le futur patron a déjà son avis sur la question.",
+"url": "https://www.iphon.fr/post/vision-pro-casque-ceo-apple-ternus-cook",
+"urlToImage": "https://www.iphon.fr/app/uploads/2026/05/Apple-Vision-Pro-M5-2-1600x900.jpg",
+"publishedAt": "2026-06-04T07:21:45Z",
+"content": "En 15 ans à la tête d’Apple, le gestionnaire Tim Cook a mené plusieurs projets à leur terme. Ses deux plus grandes réussites resteront sans doute l’Apple Watch et les AirPods, mais un autre produit, … [+1969 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphon.fr"
+},
+"author": "Sami Trabcha",
+"title": "iOS 27 : vous n’allez plus reconnaître Siri grâce à ces 5 nouveautés",
+"description": "Le keynote approche et Siri n'a jamais été aussi attendu sur iPhone. Voici pourquoi.",
+"url": "https://www.iphon.fr/post/ios-27-5-nouveautes-siri-iphone-wwdc-2026",
+"urlToImage": "https://www.iphon.fr/app/uploads/2025/10/siri-apple-iphone-ios-1600x900.jpg",
+"publishedAt": "2026-06-04T05:55:13Z",
+"content": "Apple nous a promis un Siri plus intelligent dès la WWDC 2024, capable de rivaliser avec ChatGPT et Gemini. Deux ans plus tard, cette promesse n’est toujours pas tenue, et la firme à la pomme a même … [+2290 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Paul Tan's Automotive News"
+},
+"author": "Mick Chan",
+"title": "Chery Malaysia 3rd Anniversary Mega Rewards – Tiggo Cross from RM81k, Tiggo 8 PHEV 7-seater fr RM139k",
+"description": "Chery Malaysia has announced its third anniversary Mega Rewards promotion across its model line-up, with prices starting from RM80,800. The offers begin with the Tiggo Cross that starts from RM80,800, and the B-segment SUV brings […]\nThe post Chery Malaysia 3…",
+"url": "https://paultan.org/2026/06/04/chery-malaysia-3rd-anniversary-mega-rewards-tiggo-cross-from-rm81k-tiggo-8-phev-7-seater-fr-rm139k/",
+"urlToImage": "https://paultan.org/image/2026/06/Chery-Malaysia-3rd-Anniversary-Mega-Rewards-2026-e1780537341233-1200x630.jpg",
+"publishedAt": "2026-06-04T03:36:14Z",
+"content": "Chery Malaysia has announced its third anniversary Mega Rewards promotion across its model line-up, with prices starting from RM80,800. \r\nThe offers begin with the Tiggo Cross that starts from RM80,8… [+3732 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Paul Tan's Automotive News"
+},
+"author": "Jonathan Lee",
+"title": "Leapmotor C10 facelift revealed – more modern front design, slicker interior, China launch June 16",
+"description": "Two years after it was introduced in China, the Leapmotor C10 has come in for its mid-cycle facelift, with the first photos of the refreshed SUV having been released ahead of the car’s home market […]\nThe post Leapmotor C10 facelift revealed – more modern fro…",
+"url": "https://paultan.org/2026/06/04/leapmotor-c10-facelift-revealed-more-modern-front-design-slicker-interior-china-launch-june-16/",
+"urlToImage": "https://paultan.org/image/2026/06/2027-Leapmotor-C10-facelift-2-e1780559514448-1200x679.jpg",
+"publishedAt": "2026-06-04T08:23:38Z",
+"content": "Two years after it was introduced in China, the Leapmotor C10 has come in for its mid-cycle facelift, with the first photos of the refreshed SUV having been released ahead of the car’s home market la… [+2801 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ifun.de › Apple-News seit 2001"
+},
+"author": "Chris",
+"title": "macOS 27 könnte den Namen Big Bear tragen",
+"description": "macOS 27 könnte den Beinamen „Big Bear“ tragen. Eigentlich erscheint eine solche Panne unwahrscheinlich, doch ausschließen lässt sie sich nicht. Jedenfalls trägt die Grafik, die als „Hashmoji“ für die Plattform X veröffentlicht wurde, den Dateinamen „Project_…",
+"url": "https://www.ifun.de/macos-27-koennte-den-namen-big-bear-tragen-280918/",
+"urlToImage": "https://images.ifun.de/wp-content/uploads/2026/03/macbook-feature.jpg",
+"publishedAt": "2026-06-04T04:54:31Z",
+"content": "macOS 27 könnte den Beinamen Big Bear tragen. Eigentlich erscheint eine solche Panne unwahrscheinlich, doch ausschließen lässt sie sich nicht. Jedenfalls trägt die Grafik, die als Hashmoji für die Pl… [+2098 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ifun.de › Apple-News seit 2001"
+},
+"author": "Chris",
+"title": "Nintendo Switch: EU-Version künftig mit austauschbarem Akku",
+"description": "Nintendo bereitet offenbar spezielle EU-Versionen seiner Switch-Konsolen vor, bei denen man als Nutzer den Akku tauschen kann. Dies geht aus einer von dem Anbieter veröffentlichten Ankündigung zur Einhaltung der EU-Richtlinien und -Vorschriften hervor. Hinter…",
+"url": "https://www.ifun.de/nintendo-switch-eu-version-kuenftig-mit-austauschbarem-akku-280924/",
+"urlToImage": "https://images.ifun.de/wp-content/uploads/2025/05/nintendo-switch-2-feature.jpg",
+"publishedAt": "2026-06-04T06:32:25Z",
+"content": "Nintendo bereitet offenbar spezielle EU-Versionen seiner Switch-Konsolen vor, bei denen man als Nutzer den Akku tauschen kann. Dies geht aus einer von dem Anbieter veröffentlichten Ankündigung zur Ei… [+1802 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Technews.tw"
+},
+"author": "MoneyDJ",
+"title": "郭明錤：蘋果路線圖砍 Vision Pro 系列，專注 AI 眼鏡",
+"description": "綜合中媒報導，天風國際證券分析師郭明錤 4 日發文表示，蘋果（Apple）XR 頭戴裝置與智慧眼鏡之規劃路線（roadmap），目前只剩兩個智慧眼鏡裝置有能見度。 郭明錤指出，規劃路線大改是由蘋果下一任CEO特納斯（John Ternus）拍板定案（其實已經改變一段時間）。郭明錤認為，移除Visio...",
+"url": "https://technews.tw/2026/06/04/john-ternus-scaled-back-apples-vision-products-roadmap/",
+"urlToImage": "https://img.technews.tw/wp-content/uploads/2025/09/02112225/AI-Glass-Apple-Intelligence.jpg",
+"publishedAt": "2026-06-04T01:30:30Z",
+"content": "1. The Apple XR headset and smart glasses roadmap I put together about a year ago is no longer a useful reference. For now, only two smart glasses products remain visible in the roadmap.\r\n2. The majo… [+144 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Technews.tw"
+},
+"author": "TechNews",
+"title": "Nvidia 加入 Windows on Arm 陣營，推升 Arm 架構 AI 筆電 2029 年滲透率達 34.2%",
+"description": "根據 TrendForce 最新研究指出， 目前 AI 筆電主要由 Intel、AMD、 Apple 與 Qualcomm 推動， 但市場仍缺乏能夠大規模展現裝置端AI運算價值， 並形成明確使用者換機誘因的產品。 隨著 Nvidia 於 Computex 正式發表 RTX Spark 平台搭配 N1...",
+"url": "https://technews.tw/2026/06/04/nvidia-windows-on-arm-arm-ai-laptop-penetration-34-2-2029/",
+"urlToImage": "https://img.technews.tw/wp-content/uploads/2026/06/02093853/nvidia-rtx-spark.jpg",
+"publishedAt": "2026-06-04T08:00:11Z",
+"content": "TrendForce AI IntelAMD Apple Qualcomm AI Nvidia Computex RTX Spark N1 N1X AI NPU Agent \r\nTrendForceRTX SparkWindows on Arm CUDAWindows AI202519.3% 202637.5%202984.9%\r\nN1N1XNvidiaMTK ArmCPU BlackwellG… [+406 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": null,
+"title": "Knicks fans take over NYC at watch parties for Game 1 of NBA Finals against Spurs: photos",
+"description": "Knicks fans took over the Big Apple Wednesday night to watch Game 1 of the NBA Finals against the San Antonio Spurs.",
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aa1520f1-4b53-42d1-b0c8-188ea1cea4ea",
+"urlToImage": null,
+"publishedAt": "2026-06-04T04:05:05Z",
+"content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "Why Apple is Drastically Changing the iPhone 20 Design",
+"description": "Apple is gearing up to celebrate the 20th anniversary of the iPhone in 2027 with the highly anticipated release of the iPhone 20. This device is expected to bring a fantastic shift in smartphone design and technology, setting new benchmarks for the industry. …",
+"url": "https://www.geeky-gadgets.com/iphone-20-redesign-2027/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/iPhone-20.jpg",
+"publishedAt": "2026-06-04T08:30:10Z",
+"content": "Apple is gearing up to celebrate the 20th anniversary of the iPhone in 2027 with the highly anticipated release of the iPhone 20. This device is expected to bring a fantastic shift in smartphone desi… [+6478 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "Huge Apple Leaks Reveal iOS 27 Split View and iPhone 18 Pro Details",
+"description": "Apple continues to lead the tech industry with its latest announcements, showcasing a blend of innovation and user-focused design. As the highly anticipated WWDC 2026 approaches, the company is set to unveil a range of updates and products that promise to enh…",
+"url": "https://www.geeky-gadgets.com/ios-27-split-view-wwdc-2026/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/iphone-18-pro-colors.jpg",
+"publishedAt": "2026-06-04T05:00:15Z",
+"content": "Apple continues to lead the tech industry with its latest announcements, showcasing a blend of innovation and user-focused design. As the highly anticipated WWDC 2026 approaches, the company is set t… [+6932 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "Why Apple’s Leaked WWDC 2026 Siri iOS 27 Update Changes Everything",
+"description": "Apple is preparing to unveil a significant redesign of Siri, its voice assistant, at WWDC 2026. This update, expected to debut with iOS 27, represents a bold step forward in addressing long-standing criticisms of Siri’s capabilities. By incorporating advanced…",
+"url": "https://www.geeky-gadgets.com/apple-siri-chatbot-leak-ios-27/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/siri-chatbot-interface.jpg",
+"publishedAt": "2026-06-04T08:00:56Z",
+"content": "Apple is preparing to unveil a significant redesign of Siri, its voice assistant, at WWDC 2026. This update, expected to debut with iOS 27, represents a bold step forward in addressing long-standing … [+6524 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "Apple’s New Siri Chatbot App Shocks Insiders: 7 Massive WWDC Leaks",
+"description": "Apple’s Worldwide Developers Conference (WWDC26) is set to unveil a series of updates that could significantly influence the tech industry. With advancements spanning artificial intelligence, hardware, and software, the event promises to enhance Apple’s ecosy…",
+"url": "https://www.geeky-gadgets.com/wwdc26-7-major-apple-announcements/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/wwdc26-siri-update.jpg",
+"publishedAt": "2026-06-04T07:30:24Z",
+"content": "Apples Worldwide Developers Conference (WWDC26) is set to unveil a series of updates that could significantly influence the tech industry. With advancements spanning artificial intelligence, hardware… [+6842 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "The iPhone Apps You Need to Download This June",
+"description": "Your iPhone is more than just a communication device; it’s a versatile tool that can be tailored to meet your unique needs. Whether you aim to boost productivity, improve organization, or add a personal touch to your device, the right apps can significantly e…",
+"url": "https://www.geeky-gadgets.com/whether-you/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/whether-you.jpg",
+"publishedAt": "2026-06-04T06:00:33Z",
+"content": "Your iPhone is more than just a communication device; its a versatile tool that can be tailored to meet your unique needs. Whether you aim to boost productivity, improve organization, or add a person… [+6110 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Julian Horsey",
+"title": "Track 45 Health Metrics Instantly with This 8-Sensor Smart Scale",
+"description": "Tracking your health involves more than just monitoring your weight and A Smarter House explores how a single device can provide a deeper understanding of your overall wellness. The Hume Health Body Pod body composition scale goes beyond basic measurements, o…",
+"url": "https://www.geeky-gadgets.com/dexa-level-home-fitness-scale/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/a-person-holding-the-retractable-handle-of-the-8-sensor-smart-scale-during-a-weigh-in.jpg",
+"publishedAt": "2026-06-04T07:15:00Z",
+"content": "Tracking your health involves more than just monitoring your weight and A Smarter House explores how a single device can provide a deeper understanding of your overall wellness. The Hume Health Body … [+7676 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "Don’t Lose Your Data: the Safe Way to Switch from iPhone to Android",
+"description": "Switching from an iPhone to an Android device can seem like a daunting task, but with the right steps, the process can be straightforward and efficient. The video below from Daniel About Tech provides a detailed walkthrough to help you transfer your data seam…",
+"url": "https://www.geeky-gadgets.com/transfer-iphone-data-to-android/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/android.jpg",
+"publishedAt": "2026-06-04T05:30:54Z",
+"content": "Switching from an iPhone to an Android device can seem like a daunting task, but with the right steps, the process can be straightforward and efficient. The video below from Daniel About Tech provide… [+5543 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Julian Horsey",
+"title": "New Philips Hue Bridge Pro Changes How You Place Smart Lights",
+"description": "Philips Hue has unveiled a major update to its smart lighting system, bringing new features and products aimed at improving functionality and accessibility. One notable addition is the integration of spatial mapping technology, which uses augmented reality th…",
+"url": "https://www.geeky-gadgets.com/hue-sports-live-football-sync/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/sports-live-lighting.jpg",
+"publishedAt": "2026-06-04T07:43:00Z",
+"content": "Philips Hue has unveiled a major update to its smart lighting system, bringing new features and products aimed at improving functionality and accessibility. One notable addition is the integration of… [+6032 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "Why the Samsung Galaxy Z Fold 8 Wide is the First Foldable Worth Buying",
+"description": "Samsung will launch the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra next month. The handsets will have a bold evolution in foldable smartphone design. With a focus on a wider form factor, lighter build, and user-centric updates, these devices aim to resolve lon…",
+"url": "https://www.geeky-gadgets.com/wider-galaxy-z-fold-8/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/wider-fold-design.jpg",
+"publishedAt": "2026-06-04T07:00:12Z",
+"content": "Samsung will launch the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra next month. The handsets will have a bold evolution in foldable smartphone design. With a focus on a wider form factor, lighter build… [+7516 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CinemaBlend"
+},
+"author": "Sarah El-Mahmoud",
+"title": "The Internet Can't Stop Talking About The Celebrity Amy Adams' Daughter Looks Just Like (And It's Not Her Mom)",
+"description": "“OK, so we were all seeing the same thing.”",
+"url": "https://www.cinemablend.com/streaming-news/internet-talking-celebrity-amy-adams-daughter-looks-just-like-scarlett-johansson",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/Pdws8v9dynJox9f3KYgiA9-1280-80.jpg",
+"publishedAt": "2026-06-04T00:45:00Z",
+"content": "Usually when we talk about celebrity moms and their daughters, there’s usually talk of their offspring looking just like them when they were younger. Just take Gwyneth Paltrow’s daughter Apple or Ree… [+2782 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Unlimit-tech.com"
+},
+"author": "Sultan Alqahtani",
+"title": "أبل تفتتح أول مركز للمطورين في أوروبا بمدينة برلين هذا العام",
+"description": "هذا الموضوع أبل تفتتح أول مركز للمطورين في أوروبا بمدينة برلين هذا العام ظهر على التقنية بلا حدود.\nتستعد أبل لتعزيز دعمها لمجتمع المطورين في أوروبا عبر افتتاح أول مركز Apple Developer Center في القارة، والذي سيقع في حي ميته بمدينة برلين الألمانية، على أن يبدأ…",
+"url": "https://www.unlimit-tech.com/2026/06/%d8%a3%d8%a8%d9%84-%d8%aa%d9%81%d8%aa%d8%aa%d8%ad-%d8%a3%d9%88%d9%84-%d9%85%d8%b1%d9%83%d8%b2-%d9%84%d9%84%d9%85%d8%b7%d9%88%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%a8/",
+"urlToImage": "https://www.unlimit-tech.com/wp-content/uploads/IMG_2121.jpeg",
+"publishedAt": "2026-06-04T09:04:06Z",
+"content": "Apple Developer Center .\r\n iOS iPadOS macOS watchOS tvOS visionOS.\r\n . .\r\n Apple Developer Academy .\r\n App Store 150 .\r\n ."
+},
+{
+"source": {
+"id": null,
+"name": "Ozbargain.com.au"
+},
+"author": "deanmoriarty",
+"title": "1 Month Free Trial @ Apple TV",
+"description": "Code expires on January 7, 2027. New and eligible returning subscribers only.",
+"url": "https://www.ozbargain.com.au/node/962035",
+"urlToImage": "https://files.ozbargain.com.au/n/35/962035x.jpg?h=2cd3fda9",
+"publishedAt": "2026-06-04T06:24:58Z",
+"content": "A reminder to include an expiry date in your deal posts whenever possible. In this instance, you wrote Code expires on January 7, 2027. You can find the edit button on the submenu located between the… [+81 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ozbargain.com.au"
+},
+"author": "eguan88",
+"title": "[Reburb] Apple MacBook Air 2020 Retina 13.3\" (A2337) Apple M1 8GB RAM 256GB SSD $409 Delivered @ Harris Technology eBay",
+"description": "Original Coupon Deal Grade B Condition: Fully tested and in good working condition. The device shows moderate wear, such as visible scratches or scuffs. The screen may also have minor keyboard marks …",
+"url": "https://www.ozbargain.com.au/node/961966",
+"urlToImage": "https://files.ozbargain.com.au/n/66/961966l.jpg?h=e45c4204",
+"publishedAt": "2026-06-04T00:24:58Z",
+"content": "Original Coupon DealGrade BCondition: Fully tested and in good working condition. The device shows moderate wear, such as visible scratches or scuffs. The screen may also have minor keyboard marks or… [+348 chars]"
+}
+]
+}
